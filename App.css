@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.button{
+  background-color: rgb(246, 206, 213);
+}
+
+.counter{
+  background-color: pink;
+}
+
+button:hover,
+button:visited:hover {
+  color: #FFF;
+  background-color: #e576ed; 
+}
+
+button:active,
+button:visited:active {
+  color: #FFF;
+  background-color: #dd4cd8; 
+}
+
